@@ -1,0 +1,383 @@
+Transaction_ID,Account_ID,Amount,Category,Risk_Score,Audit_Sample_Flag
+TXN-033554,38675,266.36,IT Services,Low,Selected
+TXN-009428,98540,399.87,Travel,Low,Selected
+TXN-000200,56717,281.39,Payroll,Low,Selected
+TXN-012448,81695,1170.86,Travel,Low,Selected
+TXN-039490,31742,248.73,Payroll,Low,Selected
+TXN-042725,63551,236.92,Operations,Low,Selected
+TXN-010823,78126,1883.09,IT Services,Low,Selected
+TXN-049499,25716,208.57,IT Services,Low,Selected
+TXN-004145,66184,26.12,Operations,Low,Selected
+TXN-036959,63354,161.57,Operations,Low,Selected
+TXN-043107,40058,60.35,IT Services,High,Selected
+TXN-038696,25231,329.65,Operations,Low,Selected
+TXN-006189,12159,143.72,Procurement,Low,Selected
+TXN-001415,35510,772.53,IT Services,Medium,Selected
+TXN-018472,75985,96.84,Travel,Low,Selected
+TXN-029283,23635,194.34,Procurement,Low,Selected
+TXN-015178,81857,215.7,Travel,Low,Selected
+TXN-034305,34265,285.08,Payroll,Low,Selected
+TXN-012610,10306,246.01,Travel,Low,Selected
+TXN-012145,53372,20.55,Payroll,Low,Selected
+TXN-006114,85179,635.25,Travel,Low,Selected
+TXN-015909,55489,647.34,Travel,Low,Selected
+TXN-000822,93807,818.8,Operations,Medium,Selected
+TXN-015119,10533,348.55,Travel,Low,Selected
+TXN-013467,13591,691.04,Payroll,Low,Selected
+TXN-026498,89152,414.65,Payroll,Medium,Selected
+TXN-042112,90640,967.9,IT Services,High,Selected
+TXN-030189,70047,519.65,Procurement,Low,Selected
+TXN-037238,86695,353.19,Procurement,Low,Selected
+TXN-033110,13954,362.71,Procurement,Low,Selected
+TXN-036481,11471,432.57,Procurement,Low,Selected
+TXN-024149,27127,248.29,Travel,Low,Selected
+TXN-005504,32927,1168.3,Operations,Low,Selected
+TXN-003919,22297,287.01,Operations,High,Selected
+TXN-038479,34459,487.36,Operations,Low,Selected
+TXN-021124,61697,620.6,IT Services,Medium,Selected
+TXN-049718,34838,171.18,IT Services,Medium,Selected
+TXN-042295,95331,466.01,Operations,Low,Selected
+TXN-047610,97595,181.29,Operations,Low,Selected
+TXN-011077,72137,270.85,Travel,Low,Selected
+TXN-041515,85469,78.81,Travel,Low,Selected
+TXN-022063,71630,1358.46,Travel,Low,Selected
+TXN-009414,87470,27.01,Travel,Low,Selected
+TXN-038341,20333,432.67,IT Services,High,Selected
+TXN-030264,29884,399.57,Payroll,High,Selected
+TXN-041253,70048,2812.07,Procurement,Medium,Selected
+TXN-014645,58398,750.95,IT Services,Low,Selected
+TXN-026336,88673,122.84,Payroll,Low,Selected
+TXN-028103,97567,1253.79,Travel,High,Selected
+TXN-017524,48379,292.63,IT Services,Low,Selected
+TXN-024713,76153,72.07,Procurement,Low,Selected
+TXN-040486,68928,154.98,IT Services,Low,Selected
+TXN-003851,23979,887.79,Operations,Low,Selected
+TXN-040041,32859,76.6,Payroll,Low,Selected
+TXN-015268,29874,91.51,IT Services,Low,Selected
+TXN-049147,26674,255.6,Procurement,Low,Selected
+TXN-030002,82665,528.13,Operations,Low,Selected
+TXN-045927,52866,445.32,Payroll,Low,Selected
+TXN-043825,19743,124.65,Payroll,High,Selected
+TXN-017241,65476,414.26,IT Services,Low,Selected
+TXN-004893,25735,646.06,Travel,Medium,Selected
+TXN-000726,57926,54.38,Operations,Low,Selected
+TXN-022950,78345,128.21,IT Services,Medium,Selected
+TXN-034658,39785,1225.47,Procurement,Medium,Selected
+TXN-037214,59410,993.34,Payroll,Low,Selected
+TXN-020305,50385,493.64,Travel,Low,Selected
+TXN-015270,72670,199.45,Procurement,Low,Selected
+TXN-022368,76561,654.99,Travel,Low,Selected
+TXN-042685,90792,233.2,Travel,Low,Selected
+TXN-046735,98979,219.68,Travel,Low,Selected
+TXN-011733,41323,564.35,IT Services,Medium,Selected
+TXN-018620,32097,726.45,IT Services,Low,Selected
+TXN-048493,85998,84.7,IT Services,Medium,Selected
+TXN-026804,10832,162.83,IT Services,Low,Selected
+TXN-044306,40135,109.62,IT Services,Low,Selected
+TXN-047523,27235,413.13,IT Services,Low,Selected
+TXN-032208,76629,64.71,Payroll,Low,Selected
+TXN-002531,89751,224.24,Payroll,Low,Selected
+TXN-017747,31134,903.92,Travel,Low,Selected
+TXN-008271,27043,1401.61,Procurement,Low,Selected
+TXN-015080,25668,206.31,IT Services,Low,Selected
+TXN-013625,59485,191.17,Travel,Low,Selected
+TXN-030639,87674,239.09,Payroll,Low,Selected
+TXN-030441,34678,621.07,IT Services,Low,Selected
+TXN-036057,40950,609.82,Procurement,Low,Selected
+TXN-042652,53791,281.76,IT Services,Low,Selected
+TXN-036804,89569,379.19,Procurement,Low,Selected
+TXN-048225,59271,527.18,Procurement,Low,Selected
+TXN-029227,89722,359.42,Procurement,Medium,Selected
+TXN-005634,39978,170.66,Procurement,Low,Selected
+TXN-005988,49516,296.38,IT Services,Low,Selected
+TXN-048064,52980,1188.76,Travel,Low,Selected
+TXN-001813,56163,2550.82,IT Services,Low,Selected
+TXN-027579,70598,505.75,Procurement,Medium,Selected
+TXN-016824,93190,1217.81,Payroll,Low,Selected
+TXN-003929,95744,76.41,Operations,Medium,Selected
+TXN-037287,87632,69.47,Payroll,Low,Selected
+TXN-025046,15293,27.67,Procurement,Low,Selected
+TXN-015728,36732,641.76,Travel,Medium,Selected
+TXN-029601,81986,1135.88,Operations,High,Selected
+TXN-010431,96008,78.57,Travel,Medium,Selected
+TXN-025769,75057,109.57,Payroll,Medium,Selected
+TXN-029104,67965,203.44,Procurement,Low,Selected
+TXN-036538,39461,347.79,Procurement,Low,Selected
+TXN-039329,36947,33.57,Procurement,Low,Selected
+TXN-035540,22384,12.35,Travel,Low,Selected
+TXN-028076,86159,923.51,IT Services,High,Selected
+TXN-017841,47921,911.6,Operations,Medium,Selected
+TXN-027803,56721,1159.36,Procurement,Low,Selected
+TXN-007683,37938,132.33,Travel,Low,Selected
+TXN-024280,67142,156.46,IT Services,Low,Selected
+TXN-033071,37057,373.11,Operations,Low,Selected
+TXN-035558,74705,218.99,Travel,Medium,Selected
+TXN-037190,50348,744.03,IT Services,High,Selected
+TXN-047150,93328,903.34,Procurement,Low,Selected
+TXN-046916,17042,323.81,Operations,Low,Selected
+TXN-009802,68182,1665.04,Procurement,Medium,Selected
+TXN-038801,81164,214.85,Payroll,Low,Selected
+TXN-024670,50428,28.68,Travel,Low,Selected
+TXN-044234,86893,885.08,IT Services,Low,Selected
+TXN-031920,58083,362.72,Travel,Low,Selected
+TXN-007135,82015,448.57,IT Services,Low,Selected
+TXN-033705,58390,160.91,Procurement,Low,Selected
+TXN-029661,83630,315.17,Procurement,Low,Selected
+TXN-017894,97973,363.48,Procurement,Low,Selected
+TXN-022019,33237,766.01,Payroll,Low,Selected
+TXN-013539,86815,110.87,Operations,Low,Selected
+TXN-043119,74610,449.78,Procurement,Low,Selected
+TXN-036421,14999,63.47,Payroll,Low,Selected
+TXN-009406,64097,1348.77,Operations,Low,Selected
+TXN-013414,46741,225.94,Operations,Medium,Selected
+TXN-006721,58639,14.68,Travel,Medium,Selected
+TXN-015602,18250,144.1,Operations,Medium,Selected
+TXN-044744,77081,239.65,Payroll,Medium,Selected
+TXN-031139,71303,23.45,Payroll,Low,Selected
+TXN-002730,84971,153.26,IT Services,Low,Selected
+TXN-038243,59962,20.31,Operations,Low,Selected
+TXN-029626,50139,96.69,IT Services,Low,Selected
+TXN-047895,41583,155.82,Operations,Medium,Selected
+TXN-042091,69536,162.33,Travel,Low,Selected
+TXN-036400,66430,439.34,Procurement,Low,Selected
+TXN-006245,91788,519.87,Operations,Low,Selected
+TXN-005546,51347,1987.92,Operations,Low,Selected
+TXN-004065,20014,874.09,Procurement,Low,Selected
+TXN-012852,98707,1136.96,Payroll,Low,Selected
+TXN-021803,41152,1434.05,Payroll,Low,Selected
+TXN-041164,41305,100.2,Payroll,Low,Selected
+TXN-006233,66344,350.53,Operations,High,Selected
+TXN-003863,51316,582.91,IT Services,Low,Selected
+TXN-035095,44712,371.18,Operations,Low,Selected
+TXN-040196,97499,653.05,Procurement,Low,Selected
+TXN-039251,10889,683.63,Procurement,Medium,Selected
+TXN-006218,82572,1185.86,Travel,Medium,Selected
+TXN-036776,22531,283.34,Travel,Low,Selected
+TXN-042977,36457,510.21,Travel,Low,Selected
+TXN-048468,35479,1224.15,Operations,High,Selected
+TXN-014832,70263,380.43,Operations,Medium,Selected
+TXN-030093,94436,102.3,Operations,Low,Selected
+TXN-008894,29563,38.49,IT Services,Low,Selected
+TXN-006021,46133,145.52,Payroll,Low,Selected
+TXN-046089,93506,360.15,Procurement,Low,Selected
+TXN-015243,61782,242.0,Operations,Low,Selected
+TXN-045308,44984,93.14,IT Services,Medium,Selected
+TXN-026551,35839,145.19,Travel,Medium,Selected
+TXN-006035,67174,178.47,Payroll,Low,Selected
+TXN-007906,76844,24.57,IT Services,Low,Selected
+TXN-032226,25905,721.24,IT Services,Medium,Selected
+TXN-006018,83762,862.7,Procurement,Low,Selected
+TXN-021880,17311,873.62,Procurement,Low,Selected
+TXN-002792,56760,179.46,Operations,Low,Selected
+TXN-042606,98928,1147.44,IT Services,Low,Selected
+TXN-005824,93886,945.74,Operations,Low,Selected
+TXN-015388,34575,134.32,Travel,Low,Selected
+TXN-029562,54449,734.55,Operations,High,Selected
+TXN-039476,74579,723.61,Operations,Low,Selected
+TXN-000293,96416,214.83,Procurement,Medium,Selected
+TXN-016958,35028,910.94,Operations,Low,Selected
+TXN-030861,23381,355.43,Procurement,High,Selected
+TXN-014074,99622,314.11,IT Services,Medium,Selected
+TXN-021857,75316,617.96,IT Services,Medium,Selected
+TXN-022080,16040,60.59,Payroll,Low,Selected
+TXN-017024,84084,552.05,Operations,Low,Selected
+TXN-008740,31498,593.93,Travel,High,Selected
+TXN-015826,34726,269.36,Travel,Low,Selected
+TXN-002742,51800,1692.98,Travel,Low,Selected
+TXN-018049,53739,474.24,Payroll,Medium,Selected
+TXN-049937,21020,100.09,Travel,Medium,Selected
+TXN-017373,74538,233.5,Operations,Medium,Selected
+TXN-022022,10553,1170.76,Operations,High,Selected
+TXN-046365,66041,492.38,Operations,Low,Selected
+TXN-023538,59039,389.38,Procurement,Medium,Selected
+TXN-045500,77310,596.61,IT Services,Low,Selected
+TXN-040186,70930,460.31,Travel,Medium,Selected
+TXN-009614,70776,229.65,Procurement,Medium,Selected
+TXN-043282,41543,55.92,IT Services,Low,Selected
+TXN-037892,63366,168.84,Payroll,Low,Selected
+TXN-026179,83030,608.2,Travel,Low,Selected
+TXN-045893,56306,1099.92,Procurement,Low,Selected
+TXN-020934,93325,451.66,IT Services,Medium,Selected
+TXN-040972,45486,1247.14,Travel,Low,Selected
+TXN-022225,86510,906.14,Procurement,Low,Selected
+TXN-024382,33511,111.95,IT Services,Low,Selected
+TXN-034856,20906,99.07,Travel,Low,Selected
+TXN-048578,60200,1016.61,Payroll,Low,Selected
+TXN-038537,38638,1164.87,Operations,Low,Selected
+TXN-031756,68886,615.48,Travel,Medium,Selected
+TXN-007754,68865,1259.76,Operations,Medium,Selected
+TXN-046639,44005,133.12,Travel,Low,Selected
+TXN-043835,28524,926.18,IT Services,Medium,Selected
+TXN-026236,14125,94.63,IT Services,High,Selected
+TXN-044230,66840,1361.11,Operations,Medium,Selected
+TXN-049597,31258,612.83,Operations,Low,Selected
+TXN-018553,46180,571.29,IT Services,Low,Selected
+TXN-043137,61277,529.36,Payroll,Low,Selected
+TXN-036673,81496,601.1,Payroll,Low,Selected
+TXN-043650,82597,72.06,Procurement,Medium,Selected
+TXN-003941,76641,27.86,Operations,Low,Selected
+TXN-031497,54308,894.51,Operations,Low,Selected
+TXN-026594,73571,1882.8,Operations,High,Selected
+TXN-023922,70049,2200.32,Payroll,High,Selected
+TXN-026403,73565,323.13,Procurement,Medium,Selected
+TXN-045943,11321,177.51,IT Services,Low,Selected
+TXN-048526,86864,132.17,Operations,Low,Selected
+TXN-018316,97404,27.54,Operations,Low,Selected
+TXN-036894,67908,250.23,Operations,High,Selected
+TXN-026696,16900,110.79,Travel,High,Selected
+TXN-042128,83752,432.12,Operations,Low,Selected
+TXN-014171,17434,620.37,Operations,Low,Selected
+TXN-003733,53791,654.75,Payroll,Medium,Selected
+TXN-007882,44808,779.83,IT Services,Low,Selected
+TXN-006017,90846,496.77,Payroll,Low,Selected
+TXN-023030,36321,278.54,Procurement,Low,Selected
+TXN-035474,66881,293.96,IT Services,Medium,Selected
+TXN-049686,36559,25.05,Procurement,Low,Selected
+TXN-004818,31119,134.84,Payroll,Low,Selected
+TXN-041694,19727,16.8,Payroll,Low,Selected
+TXN-012008,43370,393.05,IT Services,Low,Selected
+TXN-041328,53887,778.53,Payroll,Low,Selected
+TXN-009507,23450,348.84,IT Services,Low,Selected
+TXN-044799,88735,581.42,Travel,Low,Selected
+TXN-034063,55017,219.94,IT Services,Medium,Selected
+TXN-027475,63861,848.71,Payroll,Low,Selected
+TXN-031144,11937,485.55,Payroll,High,Selected
+TXN-021236,86820,858.68,Travel,Medium,Selected
+TXN-001391,87454,192.13,Payroll,Medium,Selected
+TXN-038250,58139,547.27,Payroll,Medium,Selected
+TXN-037625,66792,896.08,Payroll,High,Selected
+TXN-042029,29046,32.56,Payroll,Low,Selected
+TXN-020835,24538,27.36,Payroll,Medium,Selected
+TXN-014758,66381,641.01,Travel,Low,Selected
+TXN-026397,21683,1879.13,Operations,Medium,Selected
+TXN-006809,97347,1138.55,Procurement,Medium,Selected
+TXN-009226,48452,674.83,Operations,High,Selected
+TXN-048395,57645,612.57,Operations,Low,Selected
+TXN-005396,68819,319.69,IT Services,Low,Selected
+TXN-006944,80268,1324.56,Travel,Low,Selected
+TXN-023871,93031,639.34,Procurement,Low,Selected
+TXN-032493,81092,899.96,Travel,High,Selected
+TXN-036346,50564,2575.46,Operations,Low,Selected
+TXN-010756,66494,109.09,Operations,Low,Selected
+TXN-012302,17145,762.76,Payroll,High,Selected
+TXN-048387,27193,334.8,IT Services,Low,Selected
+TXN-042746,19704,716.26,Payroll,Low,Selected
+TXN-029090,71953,267.4,Operations,Low,Selected
+TXN-044713,72718,277.69,Operations,Low,Selected
+TXN-014344,23123,2297.28,Procurement,Low,Selected
+TXN-038173,22546,383.68,Procurement,Low,Selected
+TXN-005072,64200,871.99,Procurement,Low,Selected
+TXN-024122,84500,520.17,Payroll,Low,Selected
+TXN-048810,37980,328.21,Payroll,Low,Selected
+TXN-017821,85675,524.59,Travel,Medium,Selected
+TXN-001123,21694,73.71,Procurement,Low,Selected
+TXN-011265,40985,571.81,Payroll,High,Selected
+TXN-030580,98966,424.5,Payroll,Low,Selected
+TXN-045465,78335,88.57,Operations,Low,Selected
+TXN-048217,74322,13.82,IT Services,Low,Selected
+TXN-043045,67325,646.21,Travel,Low,Selected
+TXN-015657,74334,85.19,Payroll,Low,Selected
+TXN-001901,80135,93.57,Travel,Medium,Selected
+TXN-000148,85450,319.37,Procurement,Low,Selected
+TXN-029643,52782,414.15,Operations,Medium,Selected
+TXN-003212,88682,286.57,Payroll,Low,Selected
+TXN-043851,58559,185.33,Payroll,Low,Selected
+TXN-002355,53108,849.09,Payroll,Low,Selected
+TXN-031521,74506,816.19,Operations,Low,Selected
+TXN-042584,30819,184.95,Travel,Low,Selected
+TXN-043338,46077,118.12,IT Services,High,Selected
+TXN-045285,36696,12.33,IT Services,Low,Selected
+TXN-046957,95290,11.78,Operations,Medium,Selected
+TXN-048791,34432,922.94,IT Services,Medium,Selected
+TXN-036586,85672,251.17,Operations,Low,Selected
+TXN-010466,12597,254.31,IT Services,Medium,Selected
+TXN-007822,33350,1440.77,Procurement,High,Selected
+TXN-007206,35494,152.7,Travel,Low,Selected
+TXN-006414,32504,646.73,Operations,Low,Selected
+TXN-034047,46965,655.86,Procurement,Low,Selected
+TXN-012729,61571,1609.76,Procurement,Medium,Selected
+TXN-006926,11936,600.34,Procurement,Low,Selected
+TXN-027996,27013,421.71,IT Services,Medium,Selected
+TXN-037613,95178,195.78,Payroll,Medium,Selected
+TXN-039484,65698,557.35,IT Services,Low,Selected
+TXN-003017,75677,177.72,Operations,Low,Selected
+TXN-001641,60192,106.45,Operations,Low,Selected
+TXN-008884,34485,887.33,IT Services,High,Selected
+TXN-037602,13911,1535.13,Procurement,Low,Selected
+TXN-012970,30504,75.03,IT Services,Low,Selected
+TXN-023464,76629,604.28,Payroll,Low,Selected
+TXN-015758,25329,596.41,Procurement,High,Selected
+TXN-044077,42081,638.07,Procurement,Low,Selected
+TXN-004087,12610,186.29,IT Services,Low,Selected
+TXN-000509,99588,178.32,Payroll,Medium,Selected
+TXN-006355,46561,128.6,Operations,Low,Selected
+TXN-029645,36295,38.69,Travel,Low,Selected
+TXN-020816,14746,684.78,Travel,Low,Selected
+TXN-006235,17349,1188.45,Payroll,Low,Selected
+TXN-031990,45088,526.51,Operations,Low,Selected
+TXN-012996,55215,161.33,Payroll,Medium,Selected
+TXN-042502,69049,171.59,Travel,Low,Selected
+TXN-038921,95765,531.91,IT Services,Low,Selected
+TXN-000263,76690,74.82,Travel,Low,Selected
+TXN-007892,11132,737.23,Operations,Low,Selected
+TXN-010528,32394,18.17,Travel,High,Selected
+TXN-018601,91986,515.69,IT Services,Low,Selected
+TXN-024115,57405,647.9,Procurement,Low,Selected
+TXN-033499,95148,645.14,Payroll,Low,Selected
+TXN-013472,27905,52.0,Payroll,Low,Selected
+TXN-031726,71518,391.43,Payroll,High,Selected
+TXN-023691,15618,75.77,IT Services,Low,Selected
+TXN-010558,60624,112.76,Payroll,Low,Selected
+TXN-006557,72894,2192.96,Payroll,Low,Selected
+TXN-045578,14726,505.77,Payroll,Low,Selected
+TXN-041504,14047,64.49,Procurement,Low,Selected
+TXN-027873,31863,202.61,Travel,Low,Selected
+TXN-010811,80765,602.93,Procurement,Low,Selected
+TXN-038215,43761,33.62,Procurement,Low,Selected
+TXN-011731,69945,763.13,Payroll,Low,Selected
+TXN-027439,44723,259.44,Payroll,Low,Selected
+TXN-021780,70563,1099.87,Payroll,Low,Selected
+TXN-034080,86276,208.27,Procurement,High,Selected
+TXN-022916,28368,11.4,Procurement,High,Selected
+TXN-008086,41826,626.89,Payroll,Low,Selected
+TXN-043468,63074,333.74,Operations,Low,Selected
+TXN-014710,65535,1566.94,Operations,High,Selected
+TXN-015467,17222,331.28,IT Services,Low,Selected
+TXN-037173,81325,48.03,Payroll,Low,Selected
+TXN-028749,14398,1147.05,Operations,Low,Selected
+TXN-003105,96497,47.9,IT Services,Low,Selected
+TXN-000709,18415,1121.7,IT Services,Low,Selected
+TXN-038386,34839,500.1,Payroll,Low,Selected
+TXN-023445,75869,718.68,Operations,Low,Selected
+TXN-026511,50023,132.8,Payroll,Low,Selected
+TXN-008467,18314,805.8,IT Services,Medium,Selected
+TXN-006231,73382,700.39,Payroll,Low,Selected
+TXN-046359,56767,204.09,Operations,Low,Selected
+TXN-039358,99268,184.88,IT Services,High,Selected
+TXN-016387,60859,351.25,Procurement,Medium,Selected
+TXN-034166,90928,1105.32,IT Services,Medium,Selected
+TXN-004169,21889,191.06,Travel,Low,Selected
+TXN-005804,49346,1329.54,Payroll,Low,Selected
+TXN-012754,71032,147.53,IT Services,Low,Selected
+TXN-002190,41367,216.59,Procurement,Low,Selected
+TXN-012188,34578,370.49,IT Services,Low,Selected
+TXN-031728,21598,136.18,Procurement,Medium,Selected
+TXN-019246,42202,855.67,Payroll,Medium,Selected
+TXN-037867,69727,33.12,Travel,Low,Selected
+TXN-043515,55098,152.83,Travel,Low,Selected
+TXN-008719,38365,45.74,IT Services,High,Selected
+TXN-028825,39446,873.37,Payroll,Low,Selected
+TXN-024469,28697,749.48,IT Services,Medium,Selected
+TXN-048253,81739,1027.42,IT Services,Low,Selected
+TXN-007202,31673,710.77,Operations,Medium,Selected
+TXN-009283,86693,247.08,Travel,Low,Selected
+TXN-026821,79810,854.04,Operations,Low,Selected
+TXN-027374,41334,134.38,IT Services,Medium,Selected
+TXN-022493,11861,295.84,IT Services,Low,Selected
+TXN-045638,67947,699.66,Operations,Low,Selected
+TXN-045880,58326,180.29,Travel,Low,Selected
+TXN-029340,57609,283.55,Payroll,Low,Selected
+TXN-046548,33276,553.9,IT Services,High,Selected
+TXN-010804,31767,281.19,Procurement,High,Selected
+TXN-020965,80655,834.97,IT Services,Medium,Selected
+TXN-030033,75091,129.7,IT Services,Low,Selected
